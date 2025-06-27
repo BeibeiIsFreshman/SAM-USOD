@@ -6,4 +6,4 @@ The SAM fine-tuning framework is available on the release site of MDSAM. “Mult
 
 The weights will be uploaded in a timely manner once the paper is accepted.
 
-Due to the limited equipment of our model, SAM_B can only be trained at 320 x 320 and SAM_L can only be trained at 224 x 224. If you have good equipment to reproduce this code and get better weights, such as using a higher size or a more powerful SAM original weight.
+Due to the limited equipment of our model, SAM_B can only be trained at 256 x 256 and SAM_L can only be trained at 224 x 224. If you have good equipment to reproduce this code and get better weights, such as using a higher size or a more powerful SAM original weight.
