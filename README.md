@@ -16,5 +16,6 @@ The results of our comparison method are as follows:
 
 # Weight
 The weights will be uploaded in a timely manner once the paper is accepted.
-
+# Environment
+Refer to requirements.txt for the environment configuration file.
 
